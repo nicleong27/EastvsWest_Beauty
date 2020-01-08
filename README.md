@@ -2,7 +2,7 @@
 
 # Goal:
 
-With all the craze behind Eastern (Korean and Japanese) skincare, you wonder if there is a "success" formula to it all. The overarching goal for this project was to identify ingredients in skincare products that help quantify whether or not Eastern ones are better than Western ones. 
+With all the craze behind Korean skincare, you wonder if there is a "success" formula to it all. The overarching goal for this project was to identify ingredients in skincare products that help quantify whether or not Korean ones are better than Western ones. 
 
 # Data Processing:
 
