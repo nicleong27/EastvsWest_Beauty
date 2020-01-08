@@ -1,4 +1,4 @@
-# East vs West Skincare
+# East vs West Beauty
 
 # Goal:
 
