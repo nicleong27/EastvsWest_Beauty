@@ -16,6 +16,14 @@ Utilizing a Sephora skincare dataset found on Github, Korean and Western brands 
 
 Titanium Dioxide, Benzophenone, Ginkgo Biloba Extract, Coffee, Aloe Vera (Whole Leaf Extract), Caffeic Acid, Butylated Hydroxyanisole, Acetaldehyde, Benzo[A]Pyrene, Benz[A]Anthracene, Estragole, Safrole
 
-The most prominent hazardous chemical in Korean and Western skincare was Titanium Dioxide, an inert earth material used as a thickening, whitening, lubricating, and sunscreen ingredient in cosmetics. This was more prominent in Western brands than Korean ones. The second most prominent chemical was Benzophene found only in Western products, a group of compounds used in cosmetics as sunscreen agenst to protect mostly from UVB radiation and some UVA radiation. Interestingly, the third most prominent ingredient was Ginkgo Biloba Extract found only in Korean products. This is a potent, plant-derived antioxidant and soothing ingredient derived from the Ginkgo plant. 
+**Most Prominent Hazard Chemicals**
+
+The most prominent hazardous chemical in Korean and Western skincare was Titanium Dioxide, an inert earth material used as a thickening, whitening, lubricating, and sunscreen ingredient in cosmetics. This was more prominent in Western brands than Korean ones. The second most prominent chemical was Benzophene, a group of compounds used in cosmetics as sunscreen agenst to protect mostly from UVB radiation and some UVA radiation, found only in Western products. Interestingly, the third most prominent ingredient was Ginkgo Biloba Extract found only in Korean products. This is a potent, plant-derived antioxidant and soothing ingredient derived from the Ginkgo plant. 
 
 ![CSCP Summary](./images/Chem.png)
+
+**Toxic Skin Products on Sephora**
+
+A graph of the ratio toxic products to total number of product by brand is listed below. The bars highlighted in red are Korean brands, while those in blue are Western ones. The three Korean brands that contained potentially hazardous ingredients had ranging from around 0.2 to 0.3.
+
+![Sephora Ratio](./images/ratio.png)
