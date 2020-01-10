@@ -22,8 +22,22 @@ The most prominent hazardous chemical in Korean and Western skincare was Titaniu
 
 ![CSCP Summary](./images/Chem.png)
 
-**Toxic Skin Products on Sephora**
+**Toxic Skin Products from Sephora**
 
 A graph of the ratio toxic products to total number of product by brand is listed below. The bars highlighted in red are Korean brands, while those in blue are Western ones. The three Korean brands that contained potentially hazardous ingredients had ranging from around 0.2 to 0.3.
 
 ![Sephora Ratio](./images/ratio.png)
+
+Interestingly, the average rating from reviewers for toxic Korean skincare products on Sephora was around 4.23, while the average rating for toxic Western ones was 4.16.
+
+![Sephora Toxic Ratings](./images/Toxic_Avg_Stars.png)
+
+**Hypothesis Testing**
+
+Hypothesis test for this analysis: Is the prevalance of toxic ingredients higher in Western skincare products than Korean ones?
+
+Null and Alterantive Hypothesis:
+$$ H_0: \ \mu_K = \mu_W $$
+$$ H_a: \ \mu_W \geq \mu_K $$
+
+A Welch's T-test was used to test if the means of the two populations were equal. The level of significance was set relatively high at 0.2. The p-value for this test is 0.43. As a result, we fail to reject our null hypothesis.
