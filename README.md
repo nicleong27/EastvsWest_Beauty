@@ -36,8 +36,22 @@ Interestingly, the average rating from reviewers for toxic Korean skincare produ
 
 Hypothesis test for this analysis: Is the prevalance of toxic ingredients higher in Western skincare products than Korean ones?
 
-Null and Alterantive Hypothesis:
-$$ H_0: \ \mu_K = \mu_W $$
-$$ H_a: \ \mu_W \geq \mu_K $$
+*Z-Test*
 
-A Welch's T-test was used to test if the means of the two populations were equal. The level of significance was set relatively high at 0.2. The p-value for this test is 0.43. As a result, we fail to reject our null hypothesis.
+Z-Test Null and Alternative Hypothesis:
+
+![Z Test Null](./images/null_hyp_z.png)
+
+A two sample Z-Test was used to test to see if the prevalance of toxic ingredients higher in Western skincare product that Korean ones. The level of significance was set relatively high at 0.2. The p-value for this test was 0.21. As a result the test failed to reject the null hypothesis.
+
+![Z Test](./images/z-test.png)
+
+T-Test Null and Alternative Hypothesis:
+
+![Hyp Test](./images/null_hyp.png)
+
+A Welch's T-test was used to test if the means of the two populations were equal. The level of significance was kept at 0.2. The p-value for this test is 0.43. As a result, the test failed to reject the null hypothesis.
+
+![T Test](./images/t-test.png)
+
+A U-Test was performed as well to check if the similar results would be achieved. The p-value using this test was 0.43, confirming that there is not enough statistical evidence to say that Western skincare products have a higher toxicity rate than Korean ones.
