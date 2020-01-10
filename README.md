@@ -18,4 +18,4 @@ Titanium Dioxide, Benzophenone, Ginkgo Biloba Extract, Coffee, Aloe Vera (Whole 
 
 The most prominent hazardous chemical in Korean and Western skincare was Titanium Dioxide, an inert earth material used as a thickening, whitening, lubricating, and sunscreen ingredient in cosmetics. This was more prominent in Western brands than Korean ones. The second most prominent chemical was Benzophene found only in Western products, a group of compounds used in cosmetics as sunscreen agenst to protect mostly from UVB radiation and some UVA radiation. Interestingly, the third most prominent ingredient was Ginkgo Biloba Extract found only in Korean products. This is a potent, plant-derived antioxidant and soothing ingredient derived from the Ginkgo plant. 
 
-![Chem](./images/Chem.png)
+![CSCP Summary](images/Chem.png)
